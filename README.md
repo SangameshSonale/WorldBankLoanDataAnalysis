@@ -3,6 +3,12 @@
 ### Why I Did This Project
 This project was undertaken to analyze the financial obligations of countries and their repayment behaviors by calculating the percentage of dues relative to disbursed amounts. The goal was to identify patterns, highlight countries under financial strain, and provide actionable insights for policymakers and analysts while enhancing my data analysis and SQL skills.This query calculates the total disbursed amount, the total amount due to IDA, and the percentage of the disbursed amount that each country still owes. It lists the top 10 countries with the highest percentage due.
 
+### You should read this to:
+
+Identify countries with high financial risk due to outstanding balances.
+Gain insights for better financial decision-making.
+Learn practical SQL techniques for advanced data analysis.
+Extract actionable metrics like repayment efficiency.
 ### Queries
 ```sql
 SELECT 
