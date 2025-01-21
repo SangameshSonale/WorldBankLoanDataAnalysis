@@ -24,7 +24,7 @@ The dataset is sourced from the World Bank's publicly available financial datase
 * easure the reliance of countries on external financing by analyzing disbursed vs. owed ratios.
 * Use this data to determine which countries require focused repayment follow-ups.
 
-### Queries
+### Querie 1
 ```sql
 SELECT 
     Country, 
