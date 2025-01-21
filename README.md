@@ -10,6 +10,10 @@ This project was undertaken to analyze the financial obligations of countries an
 * Learn practical SQL techniques for advanced data analysis.
 * Extract actionable metrics like repayment efficiency.
 
+### What & Where is Dataset From
+The dataset contains loan data from the World Bank, including information on the total disbursed amounts, amounts due, and repayment details for various countries. It highlights the financial obligations and repayment behaviors of countries receiving loans.
+The dataset is sourced from the World Bank's publicly available financial datasets, which track global loan disbursements and repayments.
+
 ### Queries
 ```sql
 SELECT 
