@@ -5,10 +5,10 @@ This project was undertaken to analyze the financial obligations of countries an
 
 ### You should read this to:
 
-Identify countries with high financial risk due to outstanding balances.
-Gain insights for better financial decision-making.
-Learn practical SQL techniques for advanced data analysis.
-Extract actionable metrics like repayment efficiency.
+* Identify countries with high financial risk due to outstanding balances.
+* Gain insights for better financial decision-making.
+* Learn practical SQL techniques for advanced data analysis.
+* Extract actionable metrics like repayment efficiency.
 
 ### Queries
 ```sql
