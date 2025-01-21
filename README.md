@@ -43,6 +43,19 @@ ORDER BY
 LIMIT 10;
 ```
 
+```sql
+SELECT 
+    Country, 
+    COUNT(Repayment_ID) AS Count_Of_Repays -- Total number of repayments per country
+FROM 
+    repayment_data -- Replace with your table name
+GROUP BY 
+    Country
+ORDER BY 
+    Count_Of_Repays DESC; -- Sort countries by repayment count in descending order
+```
+
+
 
 
 
