@@ -52,3 +52,7 @@ LIMIT 10;
 * The dataset includes countries from South Asia (India, Bangladesh, Pakistan, Sri Lanka, Nepal) and other regions such as Yemen, China, Kenya, Vietnam, and Indonesia. This highlights the global nature of the loan disbursement and repayment process.
 * Yemen (12,872) and Kenya (11,129) have considerable repayment counts, possibly indicating significant loan activities in these developing countries.
 * Vietnam (7,535) and Indonesia (6,907) have lower repayment counts, which could point to Different economic conditions or financial policies.
+* Zimbabwe's dues exceed the total disbursed amount at 104.51%, indicating a critical financial strain, likely due to high interest or penalties.
+* These countries have percentages close to 100% (99.5%, 99.32%, and 98.86%, respectively), highlighting their significant repayment burdens.
+* Ukraine (98.37%) and Cape Verde (98.23%) are approaching full repayment obligations, raising concerns about their financial stability.
+* Both Sudan (95.62%) and Uzbekistan (95.06%) also face substantial liabilities, indicating repayment challenges.
