@@ -41,3 +41,14 @@ GROUP BY
 ORDER BY 
     Percentage_Due_to_IDA DESC
 LIMIT 10;
+
+
+
+
+
+## Top Insights
+* India has the highest number of repayments (33,325), which could indicate, A significant number of loans disbursed to India. Strong repayment practices or a large population involved in loan activities.
+* Bangladesh (20,339) and Pakistan (14,792) are ranked second and third in the number of repayments. These countries might also have substantial loan programs but at a smaller scale compared to India.
+* The dataset includes countries from South Asia (India, Bangladesh, Pakistan, Sri Lanka, Nepal) and other regions such as Yemen, China, Kenya, Vietnam, and Indonesia. This highlights the global nature of the loan disbursement and repayment process.
+* Yemen (12,872) and Kenya (11,129) have considerable repayment counts, possibly indicating significant loan activities in these developing countries.
+* Vietnam (7,535) and Indonesia (6,907) have lower repayment counts, which could point to Different economic conditions or financial policies.
