@@ -9,6 +9,7 @@ Identify countries with high financial risk due to outstanding balances.
 Gain insights for better financial decision-making.
 Learn practical SQL techniques for advanced data analysis.
 Extract actionable metrics like repayment efficiency.
+
 ### Queries
 ```sql
 SELECT 
