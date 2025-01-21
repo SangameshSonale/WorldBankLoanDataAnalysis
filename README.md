@@ -14,6 +14,16 @@ This project was undertaken to analyze the financial obligations of countries an
 The dataset contains loan data from the World Bank, including information on the total disbursed amounts, amounts due, and repayment details for various countries. It highlights the financial obligations and repayment behaviors of countries receiving loans.
 The dataset is sourced from the World Bank's publicly available financial datasets, which track global loan disbursements and repayments.
 
+### Here are the key aspects you can analyze from this query:
+* Identify the countries with the highest percentage of disbursed amounts still owed.
+* Compare the total amounts disbursed across countries.
+* Understand how much each country owes to IDA in absolute terms.
+* Analyze repayment patterns by observing the percentage of disbursed amounts still owed.
+* Pinpoint countries with high percentages due, indicating potential repayment challenges.
+* Detect which regions or countries received the largest loans.
+* easure the reliance of countries on external financing by analyzing disbursed vs. owed ratios.
+* Use this data to determine which countries require focused repayment follow-ups.
+
 ### Queries
 ```sql
 SELECT 
