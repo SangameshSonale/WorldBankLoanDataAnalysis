@@ -14,7 +14,7 @@ This project analyzes and ranks countries based on the percentage of the amount 
 1. Run the SQL query in your preferred database environment.
 2. Replace `banking_data` with your actual table name.
 
-## Example Query
+## Query
 ```sql
 SELECT 
     Country, 
